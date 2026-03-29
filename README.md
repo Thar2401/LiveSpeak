@@ -367,11 +367,8 @@ LiveSpeak/
 └── README.md             # This file
 ```
 
-## 📝 License
 
-[License information to be added]
-
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - [Vosk Speech Recognition](https://alphacephei.com/vosk/) - Open-source speech recognition
 - [Google Cloud Speech-to-Text](https://cloud.google.com/speech-to-text) - Cloud ASR service
@@ -379,4 +376,3 @@ LiveSpeak/
 
 ---
 
-**Built with ❤️ for accessibility and real-time communication**
